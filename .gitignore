@@ -1,0 +1,5 @@
+contract/node_modules/
+contract/.env
+contract/artifacts/
+contract/cache/
+front/node_modules/
